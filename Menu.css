@@ -1,0 +1,318 @@
+.rectangle{
+box-sizing: border-box;
+
+position: absolute;
+width: 132px;
+height: 852px;
+left: 57px;
+top: 43px;
+
+background: #0C0B0B;
+border-radius: 24px;
+}
+.icon1{
+    position: absolute;
+width: 51px;
+height: 102px;
+left: 5%;
+top: 5%;
+
+font-family: 'Baloo Bhai';
+font-style: normal;
+font-weight: 400;
+font-size: 64px;
+line-height: 102px;
+/* identical to box height */
+
+
+color: #F1D5BB;
+}
+.icon2{
+    box-sizing: border-box;
+
+    position: absolute;
+    left: 4%;
+    right: 90.35%;
+    font-size: 64px;
+    top: 22%;
+    bottom: 75.3%;
+    
+}
+.icon3{
+    
+position: absolute;
+width: 134px;
+height: 122px;
+font-size: 64px;
+left: 4%;
+top: 37%;
+
+
+}
+.icon4{
+    position: absolute;
+left: 4%;
+right: 90.35%;
+font-size: 64px;
+top:50%;
+bottom: 46.4%;
+
+
+}
+.icon5{
+    position: absolute;
+    left: 4%;
+    right: 90.56%;
+    font-size: 64px;
+    top: 70%;
+    bottom: 31.1%;
+
+}
+.h1{
+    
+position: absolute;
+width: 305px;
+height: 63px;
+left: 243px;
+top: 43px;
+
+font-family: 'Mulish';
+font-style: normal;
+font-weight: 400;
+font-size: 50px;
+line-height: 63px;
+/* identical to box height */
+
+
+color: #000000;
+}
+.menuitems{
+    position: absolute;
+width: 1095px;
+height: 652px;
+left: 243px;
+top: 154px;
+
+}
+.img1{
+    position: absolute;
+width: 224px;
+height: 275px;
+left: 243px;
+top: 154px;
+
+border-radius: 2px;
+}
+.p1{
+    position: absolute;
+    width: 130px;
+    height: 25px;
+    left: 290px;
+    top: 437px;
+    
+    font-family: 'Mulish';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 20px;
+    line-height: 25px;
+    /* identical to box height */
+    
+    
+    color: #000000;
+    
+}
+.img2{
+    position: absolute;
+width: 224px;
+height: 275px;
+left: 533px;
+top: 154px;
+
+border-radius: 2px;
+}
+.p2{
+    position: absolute;
+width: 101px;
+height: 25px;
+left: 594px;
+top: 437px;
+
+font-family: 'Mulish';
+font-style: normal;
+font-weight: 600;
+font-size: 20px;
+line-height: 25px;
+/* identical to box height */
+
+
+color: #000000;
+}
+.img3
+{
+    position: absolute;
+    width: 224px;
+    height: 275px;
+    left: 823px;
+    top: 154px;
+
+    border-radius: 2px;
+}
+.p3{
+    position: absolute;
+width: 91px;
+height: 25px;
+left: 889px;
+top: 437px;
+
+font-family: 'Mulish';
+font-style: normal;
+font-weight: 600;
+font-size: 20px;
+line-height: 25px;
+/* identical to box height */
+
+
+color: #000000;
+
+}
+.img4{
+    position: absolute;
+width: 224px;
+height: 275px;
+left: 1113px;
+top: 155px;
+border-radius: 2px;
+}
+.p4{
+    position: absolute;
+width: 176px;
+height: 25px;
+left: 1137px;
+top: 437px;
+
+font-family: 'Mulish';
+font-style: normal;
+font-weight: 600;
+font-size: 20px;
+line-height: 25px;
+/* identical to box height */
+
+
+color: #000000;
+
+}
+.img5{
+    position: absolute;
+width: 224px;
+height: 275px;
+left: 244px;
+top: 498px;
+
+border-radius: 2px;
+}
+.p5{
+    position: absolute;
+    width: 161px;
+    height: 25px;
+    left: 278px;
+    top: 781px;
+    
+    font-family: 'Mulish';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 20px;
+    line-height: 25px;
+    /* identical to box height */
+    
+    
+    color: #000000;
+}
+.img6{
+    position: absolute;
+width: 224px;
+height: 275px;
+left: 534px;
+top: 498px;
+
+border-radius: 2px;
+}
+.p6{
+    position: absolute;
+    width: 123px;
+    height: 25px;
+    left: 587px;
+    top: 781px;
+    
+    font-family: 'Mulish';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 20px;
+    line-height: 25px;
+    /* identical to box height */
+    
+    
+    color: #000000;
+}
+.img7{
+    position: absolute;
+width: 224px;
+height: 275px;
+left: 824px;
+top: 498px;
+
+border-radius: 2px;
+}
+.p7{
+    position: absolute;
+    width: 123px;
+    height: 25px;
+    left: 874px;
+    top: 781px;
+    
+    font-family: 'Mulish';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 20px;
+    line-height: 25px;
+    /* identical to box height */
+    
+    
+    color: #000000;
+    
+}
+.img8{
+    position: absolute;
+width: 224px;
+height: 275px;
+left: 1114px;
+top: 499px;
+
+border-radius: 2px;
+}
+.p8{
+    position: absolute;
+width: 65px;
+height: 25px;
+left: 1192px;
+top: 781px;
+
+font-family: 'Mulish';
+font-style: normal;
+font-weight: 600;
+font-size: 20px;
+line-height: 25px;
+/* identical to box height */
+
+
+color: #000000;
+}
+.button1{
+    position: absolute;
+width: 194px;
+height: 54px;
+left: 676px;
+top: 841px;
+background: #000000;
+color: #FFFFFF;
+border-radius: 2px;
+}

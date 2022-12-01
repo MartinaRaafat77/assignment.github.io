@@ -1,0 +1,59 @@
+/* restaurant 1 */
+
+.container {
+position: absolute;
+width: 100%;
+height: 100%;
+left: 0px;
+top: 0px;
+background: url(imgs/restaurant1.png);
+background-repeat:no-repeat;
+background-size: 100% 100%;
+}
+.welcome{
+    position: absolute;
+width: 830px;
+height: 186px;
+left:620px;
+top: 288px;
+font-size: 50px;
+color: #FFFFFF;
+}
+.p{
+    position: absolute;
+width: 822px;
+height: 62px;
+left: 530px;
+top: 412px;
+
+font-family: 'Mulish';
+font-style: normal;
+font-weight: 400;
+font-size: 25px;
+line-height: 31px;
+text-align: center;
+
+color: #FFFFFF;
+}
+.button1{
+    position: absolute;
+width: 250px;
+height: 80px;
+left: 600px;
+top: 548px;
+}
+.button2{
+    position: absolute;
+width: 250px;
+height: 80px;
+left: 1050px;
+top: 548px;
+
+}
+.arrow{
+    position: absolute;
+width: 1325px;
+height: 40px;
+left: 55px;
+top: 481px;
+}
